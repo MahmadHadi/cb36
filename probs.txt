@@ -1,0 +1,6 @@
+1 jul 
+    print absolute numbers 
+        absolute:
+            input -> 101 -> absolute = 101 
+            input -> -101 -> absolute = 101 
+            input -> -24 -> absolute = 24 
