@@ -4,3 +4,8 @@
             input -> 101 -> absolute = 101 
             input -> -101 -> absolute = 101 
             input -> -24 -> absolute = 24 
+
+3 jul 
+    check if num1 {input1} is multiple of num2 {input2}
+        num1 = 4, num2 = 2 -> check if 4 is multiple of 2  
+    check if given number is odd {aki} or even {beki}

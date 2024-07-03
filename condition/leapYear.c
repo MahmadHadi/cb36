@@ -9,6 +9,11 @@ void main() {
 
     // 0 => false 
     // 1 => true
+    
+    // absolute.c
+    if (year < 0) {
+        year = year * -1; 
+    }
     if (year % 4 == 0) { // 
         printf("%d is a leap year ", year);
     } 
