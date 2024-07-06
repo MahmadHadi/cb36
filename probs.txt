@@ -9,3 +9,6 @@
     check if num1 {input1} is multiple of num2 {input2}
         num1 = 4, num2 = 2 -> check if 4 is multiple of 2  
     check if given number is odd {aki} or even {beki}
+
+6 jul
+    input -> amount = 42342 -> how many notes of 10000, 1000, 100, 10, 1
